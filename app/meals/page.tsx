@@ -7,7 +7,6 @@ function Meals() {
       <p>
         <Link href="/meals/share">Share Meal</Link>
       </p>
-      <p><Link href="/meals/butnothing">something</Link></p>
     </main>
   );
 }
