@@ -36,14 +36,6 @@
   -webkit-text-fill-color: transparent;
   /* text-shadow: 0 0 18px rgba(248, 190, 42, 0.8); */
 }
-
-.active {
-  background: linear-gradient(90deg, #ff8a05, #f9b331);
-  background-clip: text;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
-
 .logo {
   display: flex;
   align-items: center;
@@ -52,7 +44,7 @@
   text-decoration: none;
   color: #ddd6cb;
   font-weight: bold;
-   font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   letter-spacing: 0.15rem;
   text-transform: uppercase;
   font-size: 1.5rem;
